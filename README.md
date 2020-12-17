@@ -9,7 +9,7 @@ To download click the DOWNLOAD ZIP button, rename the uncompressed folder to "SM
 
 ## Usage
 
-Connect [8-RELAY](https://sequentmicrosystems.com/product/raspberry-pi-relays-stackable-hat/) card with the [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/) then connect your favorite Arduino processor. Open Arduino IDE go to File > Examples > SM_8relay > 8relay. The example show how to use multiple 8-RELAYS cards with the same Arduino processor.
+Connect [8-RELAYS](https://sequentmicrosystems.com/product/raspberry-pi-relays-stackable-hat/) card with the [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/) then connect your favorite Arduino processor. Open Arduino IDE go to File > Examples > SM_8relay > 8relay. The example show how to use multiple 8-RELAYS cards with the same Arduino processor.
 
 
 ## Notice
