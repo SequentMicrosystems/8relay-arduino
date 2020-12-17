@@ -2,7 +2,7 @@
 
 This library allows you to turn on or off individual relays or all 8 in the same time, you can read the relays state. To use it you will need one S-Bridge card and one or more 8-Relay cards. 
 
-For more information about this library please visit the [README](https://github.com/SequentMicrosystems/8mosfet-rpi/blob/master/arduino/README.md)
+For more information about this library please visit the [README](https://github.com/SequentMicrosystems/8relay-arduino/blob/main/README.md)
 
 == License ==
 
