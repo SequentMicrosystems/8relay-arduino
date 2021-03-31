@@ -1,7 +1,7 @@
 # 8relay-arduino
 Easy to use Arduino Library for 8-RELAY Card
 
-To use the [8-RELAYS](https://sequentmicrosystems.com/product/raspberry-pi-relays-stackable-hat/) card with Arduino  UNO or NANO, TEENSY, FEATHER or ESP32 boards you need a [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/), known as S-BRIDGE, and this library.
+To use the [8-RELAYS](https://sequentmicrosystems.com/collections/all-io-cards/products/raspberry-pi-relays-stackable-card) card with Arduino  UNO or NANO, TEENSY, FEATHER or ESP32 boards you need a [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/collections/accessories/products/raspberry-pi-replacement-card), known as S-BRIDGE, and this library.
 
 ## Install 
 
@@ -9,7 +9,7 @@ To download click the DOWNLOAD ZIP button, rename the uncompressed folder to "SM
 
 ## Usage
 
-Connect [8-RELAYS](https://sequentmicrosystems.com/product/raspberry-pi-relays-stackable-hat/) card with the [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/) then connect your favorite Arduino processor. Open Arduino IDE go to File > Examples > SM_8relay > 8relay. The example show how to use multiple 8-RELAYS cards with the same Arduino processor.
+Connect [8-RELAYS](https://sequentmicrosystems.com/collections/all-io-cards/products/raspberry-pi-relays-stackable-card) card with the [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/collections/accessories/products/raspberry-pi-replacement-card) then connect your favorite Arduino processor. Open Arduino IDE go to File > Examples > SM_8relay > 8relay. The example show how to use multiple 8-RELAYS cards with the same Arduino processor.
 
 
 ## Notice
